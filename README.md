@@ -89,6 +89,7 @@ Focusing on the top 20% of issues can resolve nearly 80% of complaints, allowing
 ---
 
 ## 📊 Pareto Analysis
+**Top 20% Issues Resolving 80% of Complaints:**  
 
 ![Pareto Chart](Images/2%20Consumer%20Complaints%20Dashboard%20%5BPareto%5D.png)
 
