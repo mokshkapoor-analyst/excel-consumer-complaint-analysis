@@ -78,10 +78,7 @@ Focusing on the top 20% of issues can resolve nearly 80% of complaints, allowing
 
 **Interactive Excel Dashboard Video:**  
 
-<video width="600" controls>
-  <source src="Images/Consumer%20Complaints.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![Demo](Images/Consumer%20Complaints.gif)
 
 ---
 
