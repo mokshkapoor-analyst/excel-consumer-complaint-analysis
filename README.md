@@ -119,12 +119,14 @@ Focusing on the top 20% of issues can resolve nearly 80% of complaints, allowing
 ---
 
 ## 📂 Repository Structure
+```bash
 consumer-complaint-analysis/
 ├── images/
 │ ├── 1 Consumer Complaints Dashboard.png
 │ ├── 2 Consumer Complaints Dashboard [Pareto].png
 │ └── 3 Consumer Complaints Dashboard [FINDINGS].png
 └── README.md
+```
 
 ---
 
