@@ -4,6 +4,33 @@ An interactive **Excel dashboard** to analyze consumer complaints filed against 
 
 ---
 
+## 📈 Dashboard Preview
+
+## 📊 Dashboard Screenshot
+
+![Dashboard Screenshot](Images/1%20Consumer%20Complaints%20Dashboard.png)
+
+---
+
+**Interactive Excel Dashboard Video:**  
+
+![Demo](Images/Consumer%20Complaints.gif)
+
+---
+
+## 📊 Pareto Analysis
+**Top 20% Issues Resolving 80% of Complaints:**  
+
+![Pareto Chart](Images/2%20Consumer%20Complaints%20Dashboard%20%5BPareto%5D.png)
+
+---
+
+## 📋 Key Findings Visual
+
+![Key Findings](Images/3%20Consumer%20Complaints%20Dashboard%20%5BFINDINGS%5D.png)
+
+---
+
 ## 📁 Dataset Overview
 
 This project uses a **US Consumer Complaints dataset** containing **14,000+ records** related to complaints against banks, loan providers, credit institutions, and mortgage companies. Key columns include:
@@ -74,30 +101,6 @@ These insights help companies focus on high-risk products, reduce resolution tim
 Focusing on the top 20% of issues can resolve nearly 80% of complaints, allowing companies to prioritize key problem areas effectively.
 
 ---
-## 📈 Dashboard Preview
-
-**Interactive Excel Dashboard Video:**  
-
-![Demo](Images/Consumer%20Complaints.gif)
-
----
-
-## 📊 Dashboard Screenshot
-
-![Dashboard Screenshot](Images/1%20Consumer%20Complaints%20Dashboard.png)
-
----
-
-## 📊 Pareto Analysis
-**Top 20% Issues Resolving 80% of Complaints:**  
-
-![Pareto Chart](Images/2%20Consumer%20Complaints%20Dashboard%20%5BPareto%5D.png)
-
----
-
-## 📋 Key Findings Visual
-
-![Key Findings](Images/3%20Consumer%20Complaints%20Dashboard%20%5BFINDINGS%5D.png)
 
 ## 🔍 Key Learnings
 
@@ -119,6 +122,7 @@ Focusing on the top 20% of issues can resolve nearly 80% of complaints, allowing
 ---
 
 ## 📂 Repository Structure
+
 ```bash
 consumer-complaint-analysis/
 ├── images/
@@ -143,6 +147,7 @@ Aspiring Data Analyst
 </p>
 
 📢 You can also check this project on my LinkedIn post: 
+
 <a href="https://www.linkedin.com/posts/moksh-kapoor-618495322_dataanalytics-exceldashboard-dataanalysis-activity-7436779127703105536-RPXs?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFGVzjQBQzKnpNzkuOZayyyvYW4FkHnrf28" target="_blank">
 View Post 🚀
 </a>
